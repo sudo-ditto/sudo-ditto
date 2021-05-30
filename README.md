@@ -33,7 +33,7 @@ It was in the last couple of years that I settled with **web development** as my
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Figaro Mobile](https://github.com/loretta-arineva/figaro)  
+- 🔭 I’m currently working on [Figaro Mobile](https://github.com/loretta-arineva/figaro) and my new [personal portfolio](https://github.com/loretta-arineva/main-portfolio)
   
 
 - 🌱 I’m currently learning React and Redux  
