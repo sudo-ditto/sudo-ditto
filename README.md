@@ -33,21 +33,21 @@ It was in the last couple of years that I settled with **web development** as my
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
-- 🔭 I’m currently working on [Figaro Mobile](https://github.com/loretta-arineva/figaro) and my new [personal portfolio](https://github.com/loretta-arineva/main-portfolio)
-  
+- 🚀 I’m currently starting several projects from frontendmentor.io. I have almost completed [Where in the world: Rest Countries API](). I would love it if you check it out! You can check it out [live too!](https://rest-countries-api-react-redux.netlify.app/). I am also working on my personal portfolio, looking foward to adding an arcade game soon! GitHub: [Portfolio](https://github.com/loretta-arineva/main-portfolio) Live: [Loreta Krasteva Portfolio](https://loretta-arineva.dev/).
 
-- 🌱 I’m currently learning React and Redux  
-  
+- 🔭 [Figaro](https://github.com/loretta-arineva/figaro) is a side project that I also started. 
 
-- ❓ Ask me about anything related to alternative medicine   
+- 📖 On a side note,I am currently learning React and Redux/Redux Toolkit. Also mastering SASS.
   
+- 🌱 I look foward to learning to work with Figma, Scrum, understand UX and UI better and eventually dive deeper into MERN.
+  
+- ❓ Want to start a conversation? You can find social links above. Besides coding, I also love alternative medicine, holistic approaches, animals, nature, learning new things. Point? You can talk about a lot of things with me! 
 
   
-  
-
 - ⚡ Fun fact: I can bark like a dog (and dogs bark back!)  
-
-
+- ⚡ Fun fact 2: I like colleting notebooks and aestetic looking objects
+- ⚡ Fun fact 3: I am learning German and how to play the guitar alongside coding. My time management skills are goot like that!
+  
 </td><td valign="top" width="50%">
 
 <div align="center">
@@ -126,4 +126,4 @@ It was in the last couple of years that I settled with **web development** as my
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Acknowledgements to <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> for providing some of the content</div>
