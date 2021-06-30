@@ -11,18 +11,14 @@
 
 
 
-### Glad to see you here!  
-I’m a self-taught front-end web developer with a working knowledge of backend technologies. I love transforming beautiful designs into user-friendly websites.
+### **Glad to see you here!**
+I’m a self-taught Front End Web Developer with a working knowledge of backend technologies. I love transforming beautiful designs into user-friendly websites.
 
-  
-  
 
 <br/>  
 
-
-
-### Get to know me 🥰  
-My *relationship* with **computers** was love at first glance. Ever since I played my first computer game at the age of 6. This followed a series of **self-study** on how computers work, to enrolling into a *professional high school* as a **computer technician** where I was introduced to various **programming languages**.
+### **Get to know me 🥰**
+My relationship with **computers** began ever since I played my first computer game at the age of 6. This followed a series of **self-study** on how computers work, to enrolling into a *professional high school* as a **computer technician** where I was introduced to various **programming languages**.
 
 It was in the last couple of years that I settled with **web development** as my **top favorite hobby** and it has become my *dream and ultimate goal* to making it my **profession** as well.  
   
@@ -30,22 +26,20 @@ It was in the last couple of years that I settled with **web development** as my
 <br/>  
 
 
-## Rapidfire  
+## **Rapidfire**  
 <table><tr><td valign="top" width="50%">
 
-- 🚀 I’m currently starting several projects from frontendmentor.io. I have almost completed [Where in the world: Rest Countries API](). I would love it if you check it out! You can check it out [live too!](https://rest-countries-api-react-redux.netlify.app/). I am also working on my personal portfolio, looking foward to adding an arcade game soon! GitHub: [Portfolio](https://github.com/loretta-arineva/main-portfolio) Live: [Loreta Krasteva Portfolio](https://loretta-arineva.dev/).
+- 🚀 I’m currently collaborating on a guru project from Frontend Mentor: [Invoice App](https://github.com/ivaniuss/invoice-app). See it [live](https://ivaniuss.github.io/invoice-app/). I am also working on my personal portfolio, looking foward to adding an arcade game soon! GitHub: [Portfolio](https://github.com/loretta-arineva/main-portfolio) Live: [Loreta Krasteva Portfolio](https://loretta-arineva.dev/).
 
-- 🔭 [Figaro](https://github.com/loretta-arineva/figaro) is a side project that I also started. 
-
-- 📖 On a side note,I am currently learning React and Redux/Redux Toolkit. Also mastering SASS.
+- 📖 On a side note, I am currently learning learning Scrum and Git Workflow.
   
-- 🌱 I look foward to learning to work with Figma, Scrum, understand UX and UI better and eventually dive deeper into MERN.
+- 🌱 I look foward to learning to work with Figma, Next.js, TypeScript and eventually to dive deeper into MERN.
   
 - ❓ Want to start a conversation? You can find social links above. Besides coding, I also love alternative medicine, holistic approaches, animals, nature, learning new things. Point? You can talk about a lot of things with me! 
 
   
 - ⚡ Fun fact: I can bark like a dog (and dogs bark back!)  
-- ⚡ Fun fact 2: I like colleting notebooks and aestetic looking objects
+- ⚡ Fun fact 2: I like colleting notebooks and aestetic looking objects.
 - ⚡ Fun fact 3: I am learning German and how to play the guitar alongside coding. My time management skills are goot like that!
   
 </td><td valign="top" width="50%">
@@ -60,7 +54,7 @@ It was in the last couple of years that I settled with **web development** as my
 <br/>  
 
 
-## Languages and Tools  
+## **Languages and Tools**  
 <table><tr><td valign="top" width="33%">
 
 
@@ -104,8 +98,17 @@ It was in the last couple of years that I settled with **web development** as my
 
 <br/>  
 
+## **Support me**
 
-## Github Stats  
+Loreta Krasteva
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LoretaKrasteva?locale.x=en_GB)
+
+<br />
+
+## **Github Stats**
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=loretta-arineva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
