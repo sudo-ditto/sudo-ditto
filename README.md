@@ -45,7 +45,7 @@ It was in the last couple of years that I settled with **web development** as my
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://media-exp1.licdn.com/dms/image/C4D22AQFhRx-VkdTHBQ/feedshare-shrink_1280/0/1621411894182?e=1624492800&v=beta&t=bPdaT8XR7V9KHFFxS8h0LAF2RpabPTxKYyEkIIp8nh8" align="center" style="width: 100%" />
+<img src="https://i.redd.it/fl5rblibu8l31.jpg" align="center" style="width: 100%" />
 </div>  
 
 
