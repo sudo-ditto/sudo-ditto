@@ -100,11 +100,13 @@ It was in the last couple of years that I settled with **web development** as my
 
 ## **Support me**
 
-Loreta Krasteva
+If you like my work and would like to support my journey, here are some donation links:
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LoretaKrasteva?locale.x=en_GB)
+
+Any amount makes a difference and motivates me to keep going! 
 
 <br />
 
