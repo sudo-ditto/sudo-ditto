@@ -1,10 +1,10 @@
 ## Hey 👋, I'm Loreta Krasteva!  
   
 
-<a href="https://github.com/loretta-arineva" target="_blank">
+<a href="https://github.com/lucky-lore" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/loretta-arineva" target="_blank">
+<a href="https://linkedin.com/in/loretta-krasteva" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
@@ -12,15 +12,15 @@
 
 
 ### **Glad to see you here!**
-I’m a self-taught Front End Web Developer with a working knowledge of backend technologies. I love transforming beautiful designs into user-friendly websites.
+I’m a professinal React Developer with a working knowledge of backend technologies. I love transforming beautiful designs into user-friendly websites.
 
 
 <br/>  
 
 ### **Get to know me 🥰**
-My relationship with **computers** began ever since I played my first computer game at the age of 6. This followed a series of **self-study** on how computers work, to enrolling into a *professional high school* as a **computer technician** where I was introduced to various **programming languages**.
+My love for **technologies** began when I first played a computer game at the age of 6. This followed a series of **self-driven studies** on how computers work, which led me to enrolling into a *professional high school* as a **computer technician** where I was introduced to various **programming languages**.
 
-It was in the last couple of years that I settled with **web development** as my **top favorite hobby** and it has become my *dream and ultimate goal* to making it my **profession** as well.  
+It was in the last couple of years that I settled with **web development** as my **top favorite hobby** and it has I am one of the few lucky people that have turned their hobby into a **profession**.  
   
 
 <br/>  
@@ -29,23 +29,23 @@ It was in the last couple of years that I settled with **web development** as my
 ## **Rapidfire**  
 <table><tr><td valign="top" width="50%">
 
-- 🚀 I’m currently collaborating on a guru project from Frontend Mentor: [Invoice App](https://github.com/ivaniuss/invoice-app). See it [live](https://ivaniuss.github.io/invoice-app/). I am also working on my personal portfolio, looking foward to adding an arcade game soon! GitHub: [Portfolio](https://github.com/loretta-arineva/main-portfolio) Live: [Loreta Krasteva Portfolio](https://loretta-arineva.dev/).
+- 🚀 I’m currently creating my first npm package (Stay tuned).
 
-- 📖 On a side note, I am currently learning learning Scrum and Git Workflow.
+- 📖 On a side note, I am currently learning learning TDD.
   
-- 🌱 I look foward to learning to work with Figma, Next.js, TypeScript and eventually to dive deeper into MERN.
+- 🌱 I look foward to learning UX/UI design, WebGL and vector illustration with Adobe Illustrator.
   
-- ❓ Want to start a conversation? You can find social links above. Besides coding, I also love alternative medicine, holistic approaches, animals, nature, learning new things. Point? You can talk about a lot of things with me! 
+- ❓ Want to start a conversation? You can find me through the social links at the start of this document. Besides coding, I also love alternative medicine, holistic approaches, animals, nature, learning new things. You can talk about a lot of things with me! 
 
   
 - ⚡ Fun fact: I can bark like a dog (and dogs bark back!)  
 - ⚡ Fun fact 2: I like colleting notebooks and aestetic looking objects.
-- ⚡ Fun fact 3: I am learning German and how to play the guitar alongside coding. My time management skills are goot like that!
+- ⚡ Fun fact 3: I am learning professional video and photo editing alongside coding. My time management skills are just good like that!
   
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.redd.it/fl5rblibu8l31.jpg" align="center" style="width: 100%" />
+<img src="https://scontent.fsof8-1.fna.fbcdn.net/v/t1.6435-9/129469539_5329355430423504_3746290075743845374_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=3q0o7hmHyNoAX-fabcS&_nc_ht=scontent.fsof8-1.fna&oh=00_AT-l7ikeoBbxk8WC4Xg2uP9_aVZyUJx6Nm7BMfwBgUagCQ&oe=6220C1D6" align="center" style="width: 450px; height: 500px" />
 </div>  
 
 
@@ -113,22 +113,22 @@ It was in the last couple of years that I settled with **web development** as my
 
 If you like my work and would like to support my journey, here are some donation links:
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
-
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LoretaKrasteva?locale.x=en_GB)
 
-Any amount makes a difference and motivates me to keep going! 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lucky.lore)
+
+Thank you for scrolling all this way!
 
 <br />
 
 ## **Github Stats**
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=loretta-arineva&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lucky-lore&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loretta-arineva&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-lore&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -142,4 +142,4 @@ Any amount makes a difference and motivates me to keep going!
 <br />
 
 ----
-<div align="center">Acknowledgements to <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> for providing some of the content</div>
+<div align="center">Acknowledgements to <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> for providing some of the content!</div>
