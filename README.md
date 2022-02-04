@@ -1,4 +1,4 @@
-## Hey 👋, I'm Loreta Krasteva!  
+## Hey 👋, I'm Loretta Krasteva!  
   
 
 <a href="https://github.com/lucky-lore" target="_blank">
