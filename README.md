@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Loretta Krasteva!  
   
 
-<a href="https://github.com/lucky-lore" target="_blank">
+<a href="https://github.com/sudo-ditto" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://www.npmjs.com/~lucky-lore" target="_blank">
