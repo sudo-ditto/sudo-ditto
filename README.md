@@ -24,7 +24,7 @@ I’m a professinal React Developer with a working knowledge of backend technolo
 ### **Get to know me 🥰**
 My love for **technologies** began when I first played a computer game at the age of 6. This followed a series of **self-driven studies** on how computers work, which led me to enrolling into a *professional high school* as a **computer technician** where I was introduced to various **programming languages**.
 
-It was in the last couple of years that I settled with **web development** as my **top favorite hobby** and it has I am one of the few lucky people that have turned their hobby into a **profession**.  
+It was in the last couple of years that I settled with **web development** as my **top favorite hobby** and I am one of the few lucky people that have turned their hobby into a **profession**.  
   
 
 <br/>  
