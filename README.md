@@ -1,4 +1,4 @@
-## Hey 👋, I'm Loretta Krasteva!  
+## Greetings Traveler 👋, I'm Loretta Krasteva!  
   
 
 <a href="https://github.com/sudo-ditto" target="_blank">
@@ -15,36 +15,26 @@
 </a>
 
 
-### **Glad to see you here!**
-I’m a professinal React Developer with a working knowledge of backend technologies. I love transforming beautiful designs into user-friendly websites.
-
+### **Delighted to Connect with You!**
+I am a seasoned React Developer with extensive experience in crafting intuitive and visually appealing web interfaces. My passion lies in turning complex designs into accessible, user-friendly digital experiences.
 
 <br/>  
 
-### **Get to know me 🥰**
-My love for **technologies** began when I first played a computer game at the age of 6. This followed a series of **self-driven studies** on how computers work, which led me to enrolling into a *professional high school* as a **computer technician** where I was introduced to various **programming languages**.
+### **Discover More About Me 🌟**
+My journey in tech began at age 6, with an early fascination for computers. This curiosity blossomed into a focused pursuit, leading me to study as a computer technician in high school and later specialize in various programming languages.
 
-It was in the last couple of years that I settled with **web development** as my **top favorite hobby** and I am one of the few lucky people that have turned their hobby into a **profession**.  
+Web development has been my arena for the last few years, perfectly blending my professional career with my personal interests. My path from a hobbyist to a professional in this field exemplifies my commitment and love for technology.
   
 
 <br/>  
 
 
-## **Rapidfire**  
+## **Quick Insights 🔥**  
 <table><tr><td valign="top" width="50%">
-
-- 🚀 I’m currently creating my first npm package (Stay tuned).
-
-- 📖 On a side note, I am currently learning learning TDD.
   
-- 🌱 I look foward to learning UX/UI design, WebGL and vector illustration with Adobe Illustrator.
-  
-- ❓ Want to start a conversation? You can find me through the social links at the start of this document. Besides coding, I also love alternative medicine, holistic approaches, animals, nature, learning new things. You can talk about a lot of things with me! 
+- ❓ Reach out to me via my social links for conversations on technology, holistic wellness, books, fantasy, spirituality, animals, and more!
 
-  
-- ⚡ Fun fact: I can bark like a dog (and dogs bark back!)  
-- ⚡ Fun fact 2: I like colleting notebooks and aestetic looking objects.
-- ⚡ Fun fact 3: I am learning professional video and photo editing alongside coding. My time management skills are just good like that!
+- ⚡ Fun facts: I can mimic dog barks perfectly, I collect aesthetically pleasing objects, and I'm honing my skills in video/photo editing.
   
 </td><td valign="top" width="50%">
 
@@ -69,17 +59,23 @@ It was in the last couple of years that I settled with **web development** as my
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" alt="NextJS" height="50" /> 
+<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
+<a href="https://styled-components.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/styled-components.png" alt="Styled Components" height="50" /></a>  
+<a href="http://getbem.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bem.svg" alt="BEM" height="50" /></a>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
 <img style="margin: 10px" src="https://v4.material-ui.com/static/logo.png" alt="Material UI" height="50" />  
-<img style="margin: 10px" src="https://sass-lang.com/assets/img/styleguide/seal-color-aef0354c.png" alt="SASS" height="50" />  
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
+<a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="50" /></a>  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="50" />  
+<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -92,6 +88,7 @@ It was in the last couple of years that I settled with **web development** as my
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -106,6 +103,7 @@ It was in the last couple of years that I settled with **web development** as my
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" />  
+<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
 </div>
 
 </td></tr></table>  
@@ -113,26 +111,37 @@ It was in the last couple of years that I settled with **web development** as my
 <br/>  
 
 
-## **Support me**
+## **Support My Journey 🌟**
 
-If you like my work and would like to support my journey, here are some donation links:
+If you appreciate my work and wish to support my endeavors, consider donating:
 
-[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LoretaKrasteva?locale.x=en_GB)
+<div align="center">
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lucky.lore)
+  [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://paypal.me/LoretaKrasteva?locale.x=en_GB)
+</div>
 
-Thank you for scrolling all this way!
+<div align="center">
+  <a href="(https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/lucky.lore" target="_blank" style="display: inline-block;">
+    <img
+        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+        align="center"
+    />
+  </a>
+</div>
+<br />
+
+Thank you for your support!
 
 <br />
 
 ## **Github Stats**
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lucky-lore&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=sudo-ditto&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucky-lore&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudo-ditto&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
@@ -146,4 +155,3 @@ Thank you for scrolling all this way!
 <br />
 
 ----
-<div align="center">Acknowledgements to <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a> for providing some of the content!</div>
