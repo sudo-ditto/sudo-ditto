@@ -14,6 +14,7 @@
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
 
+<br/>  
 
 ### **Delighted to Connect with You!**
 I am a seasoned React Developer with extensive experience in crafting intuitive and visually appealing web interfaces. My passion lies in turning complex designs into accessible, user-friendly digital experiences.
@@ -28,25 +29,12 @@ Web development has been my arena for the last few years, perfectly blending my 
 
 <br/>  
 
-
-## **Quick Insights 🔥**  
-<table><tr><td valign="top" width="50%">
-  
 - ❓ Reach out to me via my social links for conversations on technology, holistic wellness, books, fantasy, spirituality, animals, and more!
 
+
 - ⚡ Fun facts: I can mimic dog barks perfectly, I collect aesthetically pleasing objects, and I'm honing my skills in video/photo editing.
-  
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://scontent.fsof8-1.fna.fbcdn.net/v/t1.6435-9/129469539_5329355430423504_3746290075743845374_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=730e14&_nc_ohc=3q0o7hmHyNoAX-fabcS&_nc_ht=scontent.fsof8-1.fna&oh=00_AT-l7ikeoBbxk8WC4Xg2uP9_aVZyUJx6Nm7BMfwBgUagCQ&oe=6220C1D6" align="center" style="width: 450px; height: 500px" />
-</div>  
-
-
-</td></tr></table>  
 
 <br/>  
-
 
 ## **Languages and Tools**  
 
